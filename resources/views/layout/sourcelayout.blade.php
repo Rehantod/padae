@@ -384,6 +384,7 @@
     <!-- Page level custom scripts -->
     <script src="{{ asset('assets/js/demo/chart-area-demo.js') }}"></script>
     <script src="{{ asset('assets/js/demo/chart-pie-demo.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </body>
 
 </html>
