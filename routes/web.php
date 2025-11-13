@@ -1,8 +1,8 @@
 <?php
 // routes/web.php
 
-use App\Http\Controllers\SiswaController; 
-use App\Http\Controllers\GuruController; 
+use App\Http\Controllers\SiswaController;
+use App\Http\Controllers\GuruController;
 use App\Http\Controllers\MapelController; 
 use App\Http\Controllers\JurusanController; 
 use App\Http\Controllers\KelasController; 
