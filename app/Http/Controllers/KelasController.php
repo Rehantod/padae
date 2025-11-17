@@ -8,7 +8,7 @@ class KelasController extends Controller
     public function index() 
     {
         
-        return view('data.data_kelas'); 
+        return view('Kelas.index'); 
     }
 
 }

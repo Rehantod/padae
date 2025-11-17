@@ -8,7 +8,7 @@ class MapelController extends Controller
     public function index() 
     {
         
-        return view('data.data_mapel'); 
+        return view('Mapel.index'); 
     }
 
 }
