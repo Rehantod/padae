@@ -16,7 +16,7 @@
             <input type="text" name="nama_jurusan" id="nama_jurusan" class="form-control" required>
         </div>
 
-        <button type="submit" class="btn btn-success">Simpan</button>
+        <button type="submit" class="btn btn-success">tenen</button>
         <a href="{{ route('jurusan.index') }}" class="btn btn-secondary">Kembali</a>
     </form>
 </div>
